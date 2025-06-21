@@ -96,6 +96,9 @@ flags, icd10_codes, condition_group
 ### COVID-19 Deaths by Age Group
 !Deaths by Age Group(assets/deaaths_by_age_group.png)
 
+### Top conditions
+!Top conditions(assets/top_conditions.png)
+
 ---
 
 **Author:**
