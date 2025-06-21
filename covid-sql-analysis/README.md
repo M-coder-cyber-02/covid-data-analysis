@@ -20,15 +20,8 @@ Analyzed CDC’s COVID-19 Contributing Factors dataset using SQL to uncover patt
 
 ### Files
 - File	Description
-<pre> ``` covid-sql-analysis/
-│
-├── assets/
-│ ├── top_conditions.png
-│ ├── deaths_by_age_group.png
-│ └── monthly_trends_by_year.png
-│
-├── covid_19.sql
-├── README.md ``` </pre>
+<pre> ``` covid-sql-analysis/ ├── assets/ │ ├── top_conditions.png │ ├── deaths_by_age_group.png │ └── monthly_trends_by_year.png ├── covid_19.sql └── README.md ``` </pre>
+
 ---
 
 ### Dataset Description
